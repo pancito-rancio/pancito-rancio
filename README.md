@@ -16,10 +16,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QyYzFzZzR5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="100px"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWc4bzQ5dHpxdHpxdHpxdHpxdHpxdHpxdHpxdHpxdHpxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlvseq9yvZhba/giphy.gif" width="100px"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QyYzFzZzR5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="100px"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWc4bzQ5dHpxdHpxdHpxdHpxdHpxdHpxdHpxdHpxdHpxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlvseq9yvZhba/giphy.gif" width="100px"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QyYzFzZzR5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="100px"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWc4bzQ5dHpxdHpxdHpxdHpxdHpxdHpxdHpxdHpxdHpxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlvseq9yvZhba/giphy.gif" width="100px"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QyYzFzZzR5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eTJ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="100px"/>
 </div>
 
 <br/>
