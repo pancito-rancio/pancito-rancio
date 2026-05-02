@@ -1,56 +1,94 @@
-<h1 align="center">Hola, mi nombre es joan.<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center"></h3>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Perfil de [Tu Nombre]</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Pacifico&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(to bottom, #ffe4ec, #fff);
+      color: #555;
+      text-align: center;
+    }
 
+    header {
+      padding: 40px 20px;
+    }
 
+    h1 {
+      font-family: 'Pacifico', cursive;
+      color: #ff6f91;
+      font-size: 3em;
+    }
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+    .card {
+      background: #fff;
+      margin: 20px auto;
+      padding: 20px;
+      width: 80%;
+      max-width: 600px;
+      border-radius: 20px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
 
+    .tags span {
+      display: inline-block;
+      background: #ffd1dc;
+      color: #fff;
+      padding: 5px 10px;
+      margin: 5px;
+      border-radius: 15px;
+      font-size: 0.9em;
+    }
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
+    footer {
+      margin: 30px;
+      font-size: 0.9em;
+      color: #999;
+    }
+  </style>
+</head>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<body>
 
-- :school: soy estudiante `semi Junior` del [intituto tecnologico Senati].
-- :trophy: me gusta el anime, los mangas y manwhas.
-- :technologist: actualmente estoy enfocado en mejorar mis capacidades`Frontend Development`
-- :boom: quiero crear una apgina web personal.
-- :email: si gustas contactame (joandiazflores06@gmail.com)
-- :nerd_face: siempre se puede mejorar`"cree en ti"`
-<br>
+<header>
+  <h1>🌸 Hola, soy [Tu Nombre] 💕</h1>
+  <p>✨ Bienvenida a mi mundo digital ✨</p>
+</header>
 
-## 🛠️ My Skills
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<div class="card">
+  <h2>💖 Sobre mí</h2>
+  <p>💻 Apasionada por la programación</p>
+  <p>🌷 Aprendiendo: HTML, CSS, JavaScript</p>
+  <p>🎯 Sueño: Ser desarrolladora profesional</p>
+</div>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+<div class="card">
+  <h2>🧸 Tecnologías</h2>
+  <div class="tags">
+    <span>HTML</span>
+    <span>CSS</span>
+    <span>JavaScript</span>
+    <span>Git</span>
+  </div>
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<div class="card">
+  <h2>🍓 Proyectos</h2>
+  <p>🌸 Proyecto 1 – Descripción bonita</p>
+  <p>🌸 Proyecto 2 – Descripción bonita</p>
+</div>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
+<div class="card">
+  <h2>💌 Contacto</h2>
+  <p>Email: tuemail@gmail.com</p>
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+<footer>
+  💖 Gracias por visitar mi perfil 💖
+</footer>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-
-<br>
-
+</body>
+</html>
